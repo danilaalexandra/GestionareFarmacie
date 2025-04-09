@@ -1,0 +1,4 @@
+paracetamol;12.5;nu;Analgezice;
+aspenter;54;da;Cardiovasculare;
+emetix;15;nu;Gastrointestinale;
+algocalmin;14;nu;Analgezice;

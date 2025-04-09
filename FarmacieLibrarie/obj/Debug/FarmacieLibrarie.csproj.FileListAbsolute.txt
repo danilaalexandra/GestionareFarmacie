@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\bin\Debug\FarmacieLibrarie.exe.config
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\bin\Debug\FarmacieLibrarie.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\bin\Debug\FarmacieLibrarie.pdb
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\obj\Debug\FarmacieLibrarie.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\obj\Debug\FarmacieLibrarie.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\obj\Debug\FarmacieLibrarie.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\FarmacieLibrarie\obj\Debug\FarmacieLibrarie.pdb

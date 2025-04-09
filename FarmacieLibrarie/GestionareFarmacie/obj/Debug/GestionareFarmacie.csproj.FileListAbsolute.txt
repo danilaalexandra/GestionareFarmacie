@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\obj\Debug\GestionareFarmacie.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\obj\Debug\GestionareFarmacie.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\GestionareFarmacie.exe.config
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\GestionareFarmacie.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\GestionareFarmacie.pdb
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\FarmacieLibrarie.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\NivelStocareDate.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\FarmacieLibrarie.pdb
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\FarmacieLibrarie.exe.config
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\NivelStocareDate.pdb
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\NivelStocareDate.exe.config
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\obj\Debug\Gestiona.F140E85B.Up2Date
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\obj\Debug\GestionareFarmacie.exe
+C:\Users\DELL\Desktop\GestionareFarmacie\GestionareFarmacie\obj\Debug\GestionareFarmacie.pdb
